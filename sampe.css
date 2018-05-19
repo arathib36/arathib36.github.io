@@ -1,0 +1,137 @@
+#top{
+    height: 700px;
+    
+    background:#9E2596; 
+    font-style: italic;
+    font-size: 1em;
+    color:aqua;
+    font-weight: bold;
+}
+#middle{
+    height: 500px;
+    background: blue; 
+    padding:50px;
+    padding-top:120px;
+}
+#bottom{
+    height: 1200px;
+    
+}
+.head{
+height:100px;
+background:black;
+}
+#button{
+background-color: #BFC1C0;
+    width:250px;
+    border: black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 140px;
+    margin-top:30px;
+    cursor: pointer;
+font-weight: bold;
+    text-transform: uppercase;}
+.name{
+    border-bottom: solid 2px;
+    border-top: solid 2px;
+    font-size: 3.5em;
+height:100px;
+    padding-top:20px;
+    font-weight: 900;
+    color:#8C3E11;
+    letter-spacing: 0.2em;
+    margin-left:0px;
+    padding-left: 0.05em;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: normal;
+    background:#CEC1EA;
+    font-family:Comic Sans MS, cursive, sans-serif;
+}
+.de{
+font-size:1.3em;
+color:black;
+text-transform: uppercase;
+font-weight: bold;
+text-decoration: underline
+}
+.desc{
+font-size:2em;
+color:#DE92BF;
+
+font-weight: bold;
+}
+.midd{
+font-size:2em;
+color:red;
+padding:100px;
+background:aqua;
+text-align:center;
+font-weight: bold;
+}
+
+
+
+.middl{
+font-size:2em;
+color:black;
+
+padding:100px;
+background:orange;
+text-align:center;
+font-weight: bold;
+}
+.left{
+font-size:2em;
+color:yellow;
+
+padding:100px;
+background:red;
+text-align:center;
+font-weight: bold;
+}
+.end{
+font-size:2em;
+color:#0E7940;
+
+padding:100px;
+background:#B1DFC6;
+text-align:center;
+font-weight: bold;
+}
+
+.heade{
+border-bottom: solid 2px;
+    border-top: solid 2px;
+    font-size: 2.5em;
+    font-weight: 900;
+    color:white;
+    letter-spacing: 0.2em;
+    margin-left:0px;
+    padding-left: 0.05em;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: normal;
+    background:#95710E;
+    font-family:Comic Sans MS, cursive, sans-serif;
+}
+
+.topic{border-bottom: solid 2px;
+    border-top: solid 2px;
+    font-size: 2.5em;
+    font-weight: 900;
+    color:white;
+    letter-spacing: 0.2em;
+    margin-left:0px;
+    padding-left: 0.05em;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: normal;
+    background:#95710E;
+    font-family:Comic Sans MS, cursive, sans-serif;
+}
