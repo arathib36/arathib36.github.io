@@ -1,0 +1,38 @@
+#timerwatch{
+	margin: 20px auto;
+	width: 600px;
+	text-align: center;
+	font-size: 30px;
+}
+
+#textbox {display: block;
+    font-size: 20px;
+    margin: auto;
+    padding: 15px;
+    background-color: #eee;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#textbox:hover{
+	border:1px solid #C2C6D2;
+}
+
+#input{
+    display: block;
+    margin: auto;
+    padding: 15px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+
+	
+#descr{
+text-align: center;
+font-size: 2em;
+color:red;
+}
+
+#cat{
+text-align: center;
+}
